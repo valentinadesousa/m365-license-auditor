@@ -1,0 +1,81 @@
+user_id,name,email,department,license_plan,monthly_cost_usd,last_login_date,account_enabled
+U0001,Allison Hill,allison.hill@contoso-demo.com,Finance,Microsoft 365 Business Basic,6.0,2026-10-24,True
+U0002,Noah Rhodes,noah.rhodes@contoso-demo.com,Sales,Microsoft 365 Business Basic,6.0,2026-10-15,True
+U0003,Angie Henderson,angie.henderson@contoso-demo.com,Sales,Microsoft 365 Business Basic,6.0,2026-11-01,True
+U0004,Daniel Wagner,daniel.wagner@contoso-demo.com,Finance,Microsoft 365 Business Basic,6.0,2026-10-15,True
+U0005,Cristian Santos,cristian.santos@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-04-10,True
+U0006,Connie Lawrence,connie.lawrence@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-10-27,True
+U0007,Abigail Shaffer,abigail.shaffer@contoso-demo.com,Finance,Microsoft 365 E3,36.0,2026-10-28,True
+U0008,Gina Moore,gina.moore@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-09-17,True
+U0009,Gabrielle Davis,gabrielle.davis@contoso-demo.com,HR,Microsoft 365 E3,36.0,2026-10-13,True
+U0010,Ryan Munoz,ryan.munoz@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-07-02,True
+U0011,Monica Herrera,monica.herrera@contoso-demo.com,Marketing,Microsoft 365 E3,36.0,2026-10-12,True
+U0012,Jamie Arnold,jamie.arnold@contoso-demo.com,Operations,Microsoft 365 E3,36.0,2026-08-14,False
+U0013,Lisa Hensley,lisa.hensley@contoso-demo.com,Sales,Microsoft 365 Business Standard,12.5,2026-10-23,True
+U0014,Michele Williams,michele.williams@contoso-demo.com,IT,Microsoft 365 Business Basic,6.0,2026-07-23,False
+U0015,Dylan Miller,dylan.miller@contoso-demo.com,HR,Microsoft 365 E3,36.0,2026-10-27,True
+U0016,Brian Ramirez,brian.ramirez@contoso-demo.com,Sales,Microsoft 365 E3,36.0,2026-10-12,True
+U0017,Holly Wood,holly.wood@contoso-demo.com,Operations,Microsoft 365 Business Standard,12.5,2026-10-15,True
+U0018,Derek Zuniga,derek.zuniga@contoso-demo.com,HR,Microsoft 365 E5,57.0,2026-10-20,True
+U0019,Lisa Jackson,lisa.jackson@contoso-demo.com,Sales,Microsoft 365 E5,57.0,2026-08-04,True
+U0020,Carla Gray,carla.gray@contoso-demo.com,IT,Microsoft 365 Business Basic,6.0,2026-10-22,True
+U0021,Margaret Hawkins DDS,margaret.hawkins.dds@contoso-demo.com,Operations,Microsoft 365 Business Standard,12.5,2026-10-14,True
+U0022,Patty Perez,patty.perez@contoso-demo.com,Operations,Microsoft 365 E5,57.0,2026-10-20,True
+U0023,Ethan Adams,ethan.adams@contoso-demo.com,Finance,Microsoft 365 E3,36.0,2026-10-28,True
+U0024,Tommy Walter,tommy.walter@contoso-demo.com,Marketing,Microsoft 365 E3,36.0,2026-04-15,True
+U0025,Matthew Foster,matthew.foster@contoso-demo.com,Marketing,Microsoft 365 Business Standard,12.5,2026-10-28,True
+U0026,Judy Baker,judy.baker@contoso-demo.com,Finance,Microsoft 365 Business Basic,6.0,2026-10-29,True
+U0027,Justin Baker,justin.baker@contoso-demo.com,Sales,Microsoft 365 E5,57.0,2026-10-13,True
+U0028,Stephanie Ross,stephanie.ross@contoso-demo.com,HR,Microsoft 365 E5,57.0,2026-10-16,True
+U0029,Zachary Hicks,zachary.hicks@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-08-10,True
+U0030,Anthony Rodriguez,anthony.rodriguez@contoso-demo.com,IT,Microsoft 365 E3,36.0,2026-05-19,True
+U0031,Rebecca Henderson,rebecca.henderson@contoso-demo.com,Marketing,Microsoft 365 Business Basic,6.0,2026-10-24,True
+U0032,James Ferrell,james.ferrell@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-05-18,True
+U0033,Tricia Valencia,tricia.valencia@contoso-demo.com,HR,Microsoft 365 Business Standard,12.5,2026-10-28,True
+U0034,Nathan Maldonado,nathan.maldonado@contoso-demo.com,IT,Microsoft 365 Business Basic,6.0,2026-05-12,True
+U0035,Debra Davidson,debra.davidson@contoso-demo.com,Finance,Microsoft 365 E3,36.0,2026-10-23,True
+U0036,Jeffrey Chavez,jeffrey.chavez@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-10-30,True
+U0037,Sherri Baker,sherri.baker@contoso-demo.com,Finance,Microsoft 365 Business Basic,6.0,2026-10-15,True
+U0038,Cassandra Gaines,cassandra.gaines@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-10-15,True
+U0039,Elizabeth Fowler,elizabeth.fowler@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-10-26,True
+U0040,Brittany Farmer,brittany.farmer@contoso-demo.com,Operations,Microsoft 365 Business Standard,12.5,2026-04-22,True
+U0041,Paula Moreno,paula.moreno@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-10-16,True
+U0042,Fred Smith,fred.smith@contoso-demo.com,HR,Microsoft 365 Business Standard,12.5,2026-10-30,True
+U0043,Sherry Decker,sherry.decker@contoso-demo.com,Finance,Microsoft 365 Business Standard,12.5,2026-10-14,True
+U0044,Anthony Humphrey,anthony.humphrey@contoso-demo.com,Sales,Microsoft 365 Business Basic,6.0,2026-10-25,True
+U0045,Angelica Tucker,angelica.tucker@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-08-21,True
+U0046,Philip Cannon,philip.cannon@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-10-26,True
+U0047,John Pierce,john.pierce@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-10-25,True
+U0048,Shane Henderson,shane.henderson@contoso-demo.com,Operations,Microsoft 365 Business Standard,12.5,2026-07-09,True
+U0049,Joshua Blair,joshua.blair@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-10-19,True
+U0050,Eric Carney,eric.carney@contoso-demo.com,Sales,Microsoft 365 Business Basic,6.0,2026-04-20,False
+U0051,Jessica Holmes,jessica.holmes@contoso-demo.com,Finance,Microsoft 365 E3,36.0,2026-10-29,True
+U0052,Danny Morgan,danny.morgan@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-10-28,True
+U0053,Crystal Robinson,crystal.robinson@contoso-demo.com,Sales,Microsoft 365 E5,57.0,2026-10-25,True
+U0054,Mark Perez,mark.perez@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-10-31,True
+U0055,Shannon Jones,shannon.jones@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-08-05,True
+U0056,Michael Lewis,michael.lewis@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-10-17,True
+U0057,Timothy Duncan,timothy.duncan@contoso-demo.com,Sales,Microsoft 365 Business Basic,6.0,2026-06-27,False
+U0058,Richard Aguirre,richard.aguirre@contoso-demo.com,IT,Microsoft 365 E5,57.0,2026-09-04,True
+U0059,Brent Jordan,brent.jordan@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-10-28,True
+U0060,John Daniel,john.daniel@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-10-14,True
+U0061,Victoria Garcia,victoria.garcia@contoso-demo.com,Sales,Microsoft 365 E3,36.0,2026-10-31,True
+U0062,Gerald Hensley,gerald.hensley@contoso-demo.com,Marketing,Microsoft 365 Business Standard,12.5,2026-10-31,True
+U0063,Connor West,connor.west@contoso-demo.com,Marketing,Microsoft 365 Business Standard,12.5,2026-10-30,True
+U0064,Donald Wright,donald.wright@contoso-demo.com,Sales,Microsoft 365 Business Standard,12.5,2026-10-20,True
+U0065,Jessica Callahan,jessica.callahan@contoso-demo.com,Sales,Microsoft 365 E5,57.0,2026-08-15,True
+U0066,Amber Kidd,amber.kidd@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-10-14,True
+U0067,Tracy House,tracy.house@contoso-demo.com,Operations,Microsoft 365 E3,36.0,2026-10-26,True
+U0068,Carol Tucker,carol.tucker@contoso-demo.com,Finance,Microsoft 365 Business Standard,12.5,2026-04-23,True
+U0069,James Brown,james.brown@contoso-demo.com,HR,Microsoft 365 E3,36.0,2026-10-18,True
+U0070,William Baker,william.baker@contoso-demo.com,Marketing,Microsoft 365 E5,57.0,2026-08-24,True
+U0071,Jordan Henderson,jordan.henderson@contoso-demo.com,Finance,Microsoft 365 E5,57.0,2026-08-19,True
+U0072,Whitney Peters,whitney.peters@contoso-demo.com,Sales,Microsoft 365 Business Standard,12.5,2026-10-21,True
+U0073,Brittney Phillips,brittney.phillips@contoso-demo.com,IT,Microsoft 365 E3,36.0,2026-08-23,False
+U0074,Lauren Daniels,lauren.daniels@contoso-demo.com,Marketing,Microsoft 365 E3,36.0,2026-04-18,False
+U0075,Amy Silva,amy.silva@contoso-demo.com,Finance,Microsoft 365 E3,36.0,2026-10-29,True
+U0076,Sarah Moore,sarah.moore@contoso-demo.com,Finance,Microsoft 365 Business Basic,6.0,2026-10-15,True
+U0077,Angela Lopez,angela.lopez@contoso-demo.com,Finance,Microsoft 365 Business Standard,12.5,2026-10-22,True
+U0078,Megan Young,megan.young@contoso-demo.com,IT,Microsoft 365 E3,36.0,2026-10-16,True
+U0079,Steve Sanchez,steve.sanchez@contoso-demo.com,Operations,Microsoft 365 Business Basic,6.0,2026-10-30,True
+U0080,Lisa Barnes,lisa.barnes@contoso-demo.com,Sales,Microsoft 365 E3,36.0,2026-10-31,True
